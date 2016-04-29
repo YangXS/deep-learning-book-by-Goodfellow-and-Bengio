@@ -1,2 +1,2 @@
-the deep learning book written by Goodfellow, Bengio, etal (http://www.deeplearningbook.org/)
-change the html to pdf by Chrome exporer
+The deep learning book written by Ian Goodfellow, Yoshua Bengio and Aaron Courville (http://www.deeplearningbook.org/)
+Change the html to pdf by Chrome exporer
